@@ -91,7 +91,7 @@ pip install numpy pandas matplotlib scikit-learn tensorflow jupyter
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/portfolio-tracker-optimizer.git
+git clone https://github.com/IlyesGhorbel/Portfolio-Optimizer.git
 cd portfolio-tracker-optimizer
 ```
 
